@@ -1,0 +1,299 @@
+[
+  {
+    "name": "BALAGHAT",
+    "state": "CHATTISGARH",
+    "lat": 21.8166666667,
+    "lon": 80.1666666667,
+    "metallogenesis": "BALAGHAT BELT",
+    "hostrock": "PHYLLITE,QUARTZITE",
+    "formation": "LOHANGI Fm.."
+  },
+  {
+    "name": "HARENABALLI",
+    "state": "KARNATAKA",
+    "lat": 13.3166666667,
+    "lon": 76.7166666667,
+    "metallogenesis": "CHITRADURGA BELT",
+    "hostrock": "METAVOLCANICS-METASEDIMENTS",
+    "formation": "BABABUDAN (DHARWAR)"
+  },
+  {
+    "name": "HULLIKATTE",
+    "state": "KARNATAKA",
+    "lat": 14.5,
+    "lon": 76.1166666667,
+    "metallogenesis": "CHITRADURGA BELT",
+    "hostrock": "BFQ,PHYLLITE",
+    "formation": "BABABUDAN (DHARWAR)"
+  },
+  {
+    "name": "KAREKUCHI",
+    "state": "KARNATAKA",
+    "lat": 13.3333333333,
+    "lon": 76.7027777778,
+    "metallogenesis": "CHITRADURGA BELT",
+    "hostrock": "BHQ,METAPELITE,METAVOLCANICS",
+    "formation": "BABABUDAN (DHARWAR)"
+  },
+  {
+    "name": "DEVADA",
+    "state": "ANDHRA PRADESH",
+    "lat": 18.2666666667,
+    "lon": 83.55,
+    "metallogenesis": "EASTERN GHAT BELT",
+    "hostrock": "KHONDALITE",
+    "formation": "EASTERN GHAT Sgp."
+  },
+  {
+    "name": "GARBHAM",
+    "state": "ANDHRA PRADESH",
+    "lat": 18.3666666667,
+    "lon": 83.4833333333,
+    "metallogenesis": "EASTERN GHAT BELT",
+    "hostrock": "KHONDALITE",
+    "formation": "EASTERN GHAT Sgp."
+  },
+  {
+    "name": "NISHIKHAL",
+    "state": "ORISSA",
+    "lat": 19.2166666667,
+    "lon": 83.2166666667,
+    "metallogenesis": "EASTERN GHAT BELT",
+    "hostrock": "KHONDALITE",
+    "formation": "EASTERN GHAT Sgp."
+  },
+  {
+    "name": "CODGUI",
+    "state": "GOA",
+    "lat": 15.5083333333,
+    "lon": 74.1333333333,
+    "metallogenesis": "GOA Fe - Mn PROVINCE",
+    "hostrock": "LATERITE",
+    "formation": "DHARWAR Sgp."
+  },
+  {
+    "name": "COLAMBA",
+    "state": "GOA",
+    "lat": 15.1333333333,
+    "lon": 74.1166666667,
+    "metallogenesis": "GOA Fe - Mn PROVINCE",
+    "hostrock": "MANGANIFEROUS PHYLLITE",
+    "formation": "DHARWAR Sgp."
+  },
+  {
+    "name": "SULKORNA",
+    "state": "GOA",
+    "lat": 15.0,
+    "lon": 74.1666666667,
+    "metallogenesis": "GOA Fe - Mn PROVINCE",
+    "hostrock": "MANGANIFEROUS PHYLLITE",
+    "formation": "DHARWAR Sgp."
+  },
+  {
+    "name": "PIMPERGUDA-PIMPERKUNTA",
+    "state": "ANDHRA PRADESH",
+    "lat": 19.7333333333,
+    "lon": 78.4666666667,
+    "metallogenesis": "GODAVARI RIFT BELT",
+    "hostrock": "LIMESTONE,SHALE,CHERT",
+    "formation": "PENGANGA Gp."
+  },
+  {
+    "name": "PIMPERKUNTA",
+    "state": "ANDHRA PRADESH",
+    "lat": 19.75,
+    "lon": 78.4666666667,
+    "metallogenesis": "GODAVARI RIFT BELT",
+    "hostrock": "LIMESTONE,SHALE,CHERT",
+    "formation": "PENGANGA Gp."
+  },
+  {
+    "name": "KOIRA",
+    "state": "ORISSA",
+    "lat": 21.9,
+    "lon": 85.25,
+    "metallogenesis": "JAMDA-KOIRA BELT",
+    "hostrock": "SHALE,TUFFACEOUS SHALE",
+    "formation": "BONAI Gp."
+  },
+  {
+    "name": "KATSAI",
+    "state": "ORISSA",
+    "lat": 21.8333333333,
+    "lon": 85.35,
+    "metallogenesis": "NOAMUNDI-JAMDA BELT",
+    "hostrock": "TUFFACEOUS SHALE",
+    "formation": "BONAI Gp."
+  },
+  {
+    "name": "ROIDA",
+    "state": "ORISSA",
+    "lat": 22.0166666667,
+    "lon": 85.3666666667,
+    "metallogenesis": "NOAMUNDI-JAMDA SECTOR",
+    "hostrock": "TUFFACEOUS SHALE",
+    "formation": "BONAI Gp."
+  },
+  {
+    "name": "SARAMDAH-BHADRASAI",
+    "state": "ORISSA",
+    "lat": 22.05,
+    "lon": 85.4,
+    "metallogenesis": "NOAMUNDI-JAMDA SECTOR",
+    "hostrock": "TUFFACEOUS SHALE",
+    "formation": "BONAI Gp."
+  },
+  {
+    "name": "SARKUNDA",
+    "state": "ORISSA",
+    "lat": 21.8166666667,
+    "lon": 85.15,
+    "metallogenesis": "NOAMUNDI-JAMDA SECTOR",
+    "hostrock": "METASEDIMENTS-METAVOLCANICS",
+    "formation": "IRON OREGROUP"
+  },
+  {
+    "name": "KANIVENALLI",
+    "state": "KARNATAKA",
+    "lat": 14.95,
+    "lon": 76.5666666667,
+    "metallogenesis": "SANDUR SCHIST BELT",
+    "hostrock": "METASEDIMENTS-METAVOLCANICS",
+    "formation": "EASTERN GREENSTONE"
+  },
+  {
+    "name": "RAMGAD",
+    "state": "KARNATAKA",
+    "lat": 15.15,
+    "lon": 76.4333333333,
+    "metallogenesis": "SANDUR SCHIST BELT",
+    "hostrock": "METASEDIMENTS - METAVOLCANICS",
+    "formation": "EASTERN GREENSTONE"
+  },
+  {
+    "name": "BHANDARBOLI",
+    "state": "MAHARASTRA",
+    "lat": 21.3833333333,
+    "lon": 79.45,
+    "metallogenesis": "SAUSAR BELT",
+    "hostrock": "GONDITE",
+    "formation": "SAUSAR Gp."
+  },
+  {
+    "name": "DHANSUA-LAUGHAR-JAGANTOLI",
+    "state": "MADHYA PRADESH",
+    "lat": 22.0,
+    "lon": 80.2333333333,
+    "metallogenesis": "SAUSAR BELT",
+    "hostrock": "SCHIST,PHYLLITE",
+    "formation": "LOHANGI Fm."
+  },
+  {
+    "name": "GUMGAON",
+    "state": "MAHARASTRA",
+    "lat": 21.3833333333,
+    "lon": 79.3333333333,
+    "metallogenesis": "SAUSAR BELT",
+    "hostrock": "SCHIST",
+    "formation": "SAUSAR Gp."
+  },
+  {
+    "name": "JUNEWANI",
+    "state": "MAHARASTRA",
+    "lat": 21.45,
+    "lon": 79.2666666667,
+    "metallogenesis": "SAUSAR BELT",
+    "hostrock": "CALC GNEISS AND SCHIST",
+    "formation": "SAUSAR Gp."
+  },
+  {
+    "name": "NETRA",
+    "state": "MAHARASTRA",
+    "lat": 21.5333333333,
+    "lon": 79.9833333333,
+    "metallogenesis": "SAUSAR BELT",
+    "hostrock": "SCHIST",
+    "formation": "LOHANGI Fm."
+  },
+  {
+    "name": "PANCHALA",
+    "state": "MAHARASTRA",
+    "lat": 21.45,
+    "lon": 79.7666666667,
+    "metallogenesis": "SAUSAR BELT",
+    "hostrock": "GONDITE",
+    "formation": "SAUSAR Gp."
+  },
+  {
+    "name": "PAWNIA",
+    "state": "MADHYA PRADESH",
+    "lat": 21.7166666667,
+    "lon": 79.75,
+    "metallogenesis": "SAUSAR BELT",
+    "hostrock": "GONDITE-QUARTZITE",
+    "formation": "LOHANGI Fm.."
+  },
+  {
+    "name": "TIRODI",
+    "state": "MADHYA PRADESH",
+    "lat": 21.6833333333,
+    "lon": 79.7333333333,
+    "metallogenesis": "SAUSAR BELT",
+    "hostrock": "GONDITE,QUARTZITE",
+    "formation": "LOHANGI Fm.."
+  },
+  {
+    "name": "UKWA",
+    "state": "MADHYA PRADESH",
+    "lat": 21.9666666667,
+    "lon": 80.4666666667,
+    "metallogenesis": "SAUSAR BELT",
+    "hostrock": "SCHIST AND PHYLLITE",
+    "formation": "LOHANGI Fm."
+  },
+  {
+    "name": "LAUGHAR-KAMHATOLA",
+    "state": "MADHYA PRADESH",
+    "lat": 21.8333333333,
+    "lon": 80.3666666667,
+    "metallogenesis": "SAUSAR BELT",
+    "hostrock": "SCHISTS",
+    "formation": "LOHANGI Fm.."
+  },
+  {
+    "name": "ANMOD",
+    "state": "GOA",
+    "lat": 15.4333333333,
+    "lon": 74.3,
+    "metallogenesis": "SHIMOGA-GOA BELT",
+    "hostrock": "LATERITE ON VOLCANICS OF GREENSTONE",
+    "formation": "CHITRADURGA BELT Gp."
+  },
+  {
+    "name": "HATTIKAMBA",
+    "state": "KARNATAKA",
+    "lat": 15.2666666667,
+    "lon": 74.45,
+    "metallogenesis": "SHIMOGA-GOA BELT",
+    "hostrock": "LATERITE ON VOLCANOSEDIMENTARY SEQUENCE",
+    "formation": "CHITRADURGA BELT Gp."
+  },
+  {
+    "name": "TERALI-BISGOD",
+    "state": "GOA",
+    "lat": 15.1666666667,
+    "lon": 74.3666666667,
+    "metallogenesis": "SHIMOGA-GOA BELT",
+    "hostrock": "LATERITE ON VOLCANOSEDIMETS OF GREENSTON",
+    "formation": "CHITRADURGA BELT BELT"
+  },
+  {
+    "name": "YOGIMALAI",
+    "state": "KARNATAKA",
+    "lat": 13.8666666667,
+    "lon": 75.3166666667,
+    "metallogenesis": "SHIMOGA-GOA BELT",
+    "hostrock": "METASEDIMENTS-METAVOLCANICS",
+    "formation": "CHITRADURGA BELT Gp."
+  }
+]

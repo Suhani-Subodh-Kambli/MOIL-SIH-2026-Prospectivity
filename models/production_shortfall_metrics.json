@@ -1,0 +1,36 @@
+{
+  "model_type": "RandomForestRegressor",
+  "n_estimators": 300,
+  "features": [
+    "equipment_downtime_hours",
+    "rainfall_mm",
+    "blasting_delay_hours",
+    "maintenance_hours",
+    "equipment_availability"
+  ],
+  "target": "production_ratio",
+  "dataset_records": 384,
+  "test_mae": 0.0226,
+  "test_rmse": 0.0308,
+  "test_r2": 0.892,
+  "cv_5fold_mae_mean": 0.0225,
+  "cv_5fold_mae_std": 0.0035,
+  "feature_importances": {
+    "equipment_downtime_hours": 0.4534,
+    "rainfall_mm": 0.2048,
+    "equipment_availability": 0.1982,
+    "blasting_delay_hours": 0.1307,
+    "maintenance_hours": 0.0129
+  },
+  "training_data_source": "MOIL Limited Calibrated Mine Production History (2021-2024)",
+  "mines_covered": [
+    "Balaghat",
+    "Chikla",
+    "Dongri Buzurg",
+    "Gumgaon",
+    "Kandri",
+    "Mansar",
+    "Tirodi",
+    "Ukwa"
+  ]
+}

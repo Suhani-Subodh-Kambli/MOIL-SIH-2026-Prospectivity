@@ -1,0 +1,4 @@
+const API=import.meta.env.VITE_API_URL||'http://localhost:5000/api';
+async function req(path,opt={}){const token=localStorage.getItem('oretwin_token');const r=await fetch(API+path,{...opt,headers:{...(opt.body?{'Content-Type':'application/json'}:{}),...(token?{Authorization:`Bearer ${token}`}:{})}});const t=await r.text();let d={};try{d=t?JSON.parse(t):{}}catch{d={message:t}}if(!r.ok)throw Error(d.message||d.error||`HTTP ${r.status}`);return d}
+export const api={login:b=>req('/auth/login',{method:'POST',body:JSON.stringify(b)}),register:b=>req('/auth/register',{method:'POST',body:JSON.stringify(b)}),targets:()=>req('/exploration/targets'),grid:()=>req('/exploration/grid'),zones:()=>req('/exploration/zones'),predict:b=>req('/production/predict',{method:'POST',body:JSON.stringify(b)})};
+export function decode(t){try{return JSON.parse(atob(t.split('.')[1].replace(/-/g,'+').replace(/_/g,'/')))}catch{return{}}}
