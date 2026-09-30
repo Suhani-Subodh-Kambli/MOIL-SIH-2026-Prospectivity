@@ -565,14 +565,14 @@ function Production({ mines, saveActivity }) {
               </select>
             </div>
 
-            {Object.entries([
+            {[
               ["target_mt", "Target production (MT)"],
               ["equipment_downtime_hours", "Equipment downtime (hours)"],
               ["rainfall_mm", "Rainfall (mm)"],
               ["blasting_delay_hours", "Blasting delay (hours)"],
               ["maintenance_hours", "Maintenance (hours)"],
               ["equipment_availability", "Equipment availability (0–1)"],
-            ]).map(([name, label]) => (
+            ].map(([name, label]) => (
               <label key={name}>
                 <span>{label}</span>
                 <input
